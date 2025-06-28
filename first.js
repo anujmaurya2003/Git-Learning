@@ -9,3 +9,6 @@ console.log(footer);
 
 const payment = "payment added";
 console.log(payment);
+
+const UPI = "Intregrated UPI";
+console.log(UPI);
