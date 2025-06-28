@@ -12,3 +12,6 @@ console.log(payment);
 
 const UPI = "Intregrated UPI";
 console.log(UPI);
+
+// here I am fixing a bug
+console.log("Bug Fixed Succesfully");
