@@ -4,8 +4,5 @@ console.log(button);
 const login = "Login page added";
 console.log(login);
 
-const payment = "Payment gateway added";
-console.log(payment);
-
-const UPI = "UPI added";
-console.log(UPI);
+const footer = "footer added";
+console.log(footer);
